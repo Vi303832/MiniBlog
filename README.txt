@@ -17,7 +17,8 @@ Canlı demo için: https://miniblog-ten-virid.vercel.app/
 - Tailwind
 - Firebase Authentication
 - Firebase Firestore 
-- Vercel 
+- Vercel
+- Redux toolkit
 
 ## Kurulum
 
